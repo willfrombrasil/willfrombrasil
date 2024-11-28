@@ -1,10 +1,10 @@
-# 👩🏻‍💻 William Camargo 👋
+# 👋 William Camargo
 
 **` Engenheiro de Software ⚡ Desenvolvedor FullStack`**
 
-<p>👋 Olá! Eu sou Engenheiro de Software, Desenvolvedor Web e Especialista em Marketing Digital com foco em Publicidade e Propaganda. Sou apaixonado por desafios e tenho uma grande motivação em superá-los, criando soluções ágeis e eficientes.</p>
+<p>Olá! Eu sou Engenheiro de Software, Desenvolvedor Web e Especialista em Marketing Digital com foco em Publicidade e Propaganda. Sou apaixonado por desafios e tenho uma grande motivação em superá-los, criando soluções ágeis e eficientes.</p>
 
-<div align="left" style="display: flex;justify-content: space-between;">
+<div style="display: flex;justify-content: space-between;">
     <a href="https://github.com/willfrombrasil?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -345,7 +345,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
     />
 </div>
----
+
 <p><br><br><br></p>
 
 ### 📊 Estatísticas
